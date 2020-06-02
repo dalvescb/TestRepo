@@ -1,2 +1,2 @@
 main = do putStrLn "Hello"
-            badline
+          putStrLn "Goodbye"
